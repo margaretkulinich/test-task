@@ -7,7 +7,7 @@
 
 
 
-##How to run the result
+## How to run the result
 
 Use [this link](https://margaretkulinich.github.io/test-task) to run the app.
 
